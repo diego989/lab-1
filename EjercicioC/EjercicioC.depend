@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1569278476 source:c:\users\alumno\desktop\ejercicioc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Alumnoc.h"
+
+1569278802 c:\users\alumno\desktop\ejercicioc\alumnoc.h
+	<stdio.h>
+	<string.h>
+
+1569278809 source:c:\users\alumno\desktop\ejercicioc\alumnoc.c
+	"Alumnoc.h"
+
